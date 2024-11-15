@@ -5,4 +5,6 @@ Status page
 Call Logs
 
 Hide last seem
+adding payment 
+adding map
 ------->>>>>>>>
